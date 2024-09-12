@@ -9,6 +9,7 @@ import com.qualcomm.robotcore.hardware.IMU;
 import org.firstinspires.ftc.robotcore.external.navigation.AngleUnit;
 import org.firstinspires.ftc.robotcore.external.navigation.YawPitchRollAngles;
 import org.firstinspires.ftc.teamcode.Auxiliar.DriveConstantsTeleOp;
+import org.firstinspires.ftc.teamcode.Auxiliar.PIDControl;
 
 public class MecannumDriveHandler
 {
@@ -16,6 +17,9 @@ public class MecannumDriveHandler
     DcMotorEx lFD;
     DcMotorEx rBD;
     DcMotorEx rFD;
+
+    double Kp = 1.0;
+    PIDControl pidControl = new PIDControl(Kp);
 
     IMU imu;
 
@@ -25,17 +29,17 @@ public class MecannumDriveHandler
         // INICIALIZAR MOTORES
         // Setar motores
 
-        lBD = hardwareMap.get(DcMotorEx.class,"left_back_drive");
-        lFD = hardwareMap.get(DcMotorEx.class,"left_front_drive");
-        rBD = hardwareMap.get(DcMotorEx.class,"right_back_drive");
-        rFD = hardwareMap.get(DcMotorEx.class,"right_front_drive");
+        lBD = hardwareMap.get(DcMotorEx.class,"left_back");
+        lFD = hardwareMap.get(DcMotorEx.class,"left_front");
+        rBD = hardwareMap.get(DcMotorEx.class,"right_back");
+        rFD = hardwareMap.get(DcMotorEx.class,"right_front");
 
         // Setar direção de motores (devido à forma de montagem, motores da esquerda devem mover em direção oposta ao da direita para se moverem para frente ou para trás
 
-        lBD.setDirection(DcMotorSimple.Direction.FORWARD);
-        lFD.setDirection(DcMotorSimple.Direction.FORWARD);
-        rBD.setDirection(DcMotorSimple.Direction.REVERSE);
-        rFD.setDirection(DcMotorSimple.Direction.REVERSE);
+        lBD.setDirection(DcMotorSimple.Direction.REVERSE);
+        lFD.setDirection(DcMotorSimple.Direction.REVERSE);
+        rBD.setDirection(DcMotorSimple.Direction.FORWARD);
+        rFD.setDirection(DcMotorSimple.Direction.FORWARD);
 
         // Reseta o encoder dos motores
         lBD.setMode(DcMotor.RunMode.STOP_AND_RESET_ENCODER);
@@ -135,4 +139,18 @@ public class MecannumDriveHandler
         rBD.setPower(rBD_Power);
     }
 
+    public double[] getVelocities()
+    {
+        return new double[] {lFD.getVelocity(AngleUnit.DEGREES), rFD.getVelocity(AngleUnit.DEGREES), lBD.getVelocity(AngleUnit.DEGREES), rBD.getVelocity(AngleUnit.DEGREES)};
+    }
+
+    private double PositiveAngle(double angle)
+    {
+        if (angle < 0)
+        {
+            angle = 360 - angle;
+        }
+
+        return angle;
+    }
 }
