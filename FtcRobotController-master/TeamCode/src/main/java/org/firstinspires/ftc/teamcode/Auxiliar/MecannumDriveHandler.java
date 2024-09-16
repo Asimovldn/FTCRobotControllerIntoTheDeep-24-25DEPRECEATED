@@ -60,4 +60,16 @@ public class MecannumDriveHandler
     {
 
     }
+
+    public void Analog(double x, double y, double r)
+    {
+        double denominator = Math.max(Math.abs(y) + Math.abs(x) + Math.abs(r))
+
+
+
+         lFD.setpower (y + x + r) / denominator);
+         lBD.setpower (y - x + r) / denominator);
+         rFD.setpower (y - x - r) / denominator);
+         rBD.setpower (y + x - r) / denominator);
+    }
 }
