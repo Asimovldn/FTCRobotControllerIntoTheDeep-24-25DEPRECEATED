@@ -2,8 +2,8 @@ package org.firstinspires.ftc.teamcode.Auxiliar;
 
 public class Vector2D
 {
-    double x;
-    double y;
+    public double x;
+    public double y;
 
     double magnitude;
 

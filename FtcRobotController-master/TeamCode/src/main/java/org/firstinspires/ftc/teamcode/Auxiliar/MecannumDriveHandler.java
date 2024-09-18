@@ -72,5 +72,16 @@ public class MecannumDriveHandler
 
     }
 
+    public void FielCentric(double x , double y , double r)
+    {
+        Vector2D vector = new Vector2D(x,y);
+        double angle = 1;
 
+        Vector2D rotVector = Vector2D.rotateVector(vector, angle);
+
+        Analog(rotVector.x, rotVector.y, r );
+
+
+
+    }
 }
