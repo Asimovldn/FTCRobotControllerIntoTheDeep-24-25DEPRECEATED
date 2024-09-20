@@ -4,7 +4,113 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cec2717-8b3a-4f32-a76e-bc6dff294f92" name="Changes" comment="" />
+    <list default="true" id="3cec2717-8b3a-4f32-a76e-bc6dff294f92" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/.github/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/.github/ISSUE_TEMPLATE/bug.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/BasicOmniOpMode_Linear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/BasicOpMode_Iterative.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/BasicOpMode_Linear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptAprilTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptAprilTagEasy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptGamepadRumble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptGamepadTouchpad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptLEDStick.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptMotorBulkRead.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptNullOp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptRampMotorSpeed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptRevLED.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptRevSPARKMini.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptScanServo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptSoundsASJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptSoundsOnBotJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptSoundsSKYSTONE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/ConceptTelemetry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/RobotHardware.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/RobotTeleopPOV_Linear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/RobotTeleopTank_Iterative.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SampleRevBlinkinLedDriver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorBNO055IMU.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorColor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorDigitalTouch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorHuskyLens.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorIMUNonOrthogonal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorIMUOrthogonal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorKLNavxMicro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorLimelight3A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorMRColor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorMRGyro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorMROpticalDistance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorMRRangeSensor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorOctoQuad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorOctoQuadAdv.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorREV2mDistance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorSparkFunOTOS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorTouch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/UtilityCameraFrameCapture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/UtilityOctoQuadConfigMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/sample_conventions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/FtcOpModeRegister.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/FtcRobotControllerActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/PermissionValidatorWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/res/drawable-xhdpi/icon_menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/res/drawable-xhdpi/icon_robotcontroller.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/res/layout/activity_ftc_controller.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/res/menu/ftc_robot_controller.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/res/raw/gold.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/res/raw/silver.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/res/xml/app_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/FtcRobotController/src/main/res/xml/device_filter.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/TeamCode/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/TeamCode/lib/OpModeAnnotationProcessor.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/TeamCode/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/Drawing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/Localizer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/MecanumDrive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/TankDrive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ThreeDeadWheelLocalizer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/TwoDeadWheelLocalizer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/messages/DriveCommandMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/messages/MecanumCommandMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/messages/MecanumLocalizerInputsMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/messages/PoseMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/messages/TankCommandMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/messages/TankLocalizerInputsMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/messages/ThreeDeadWheelInputsMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/messages/TwoDeadWheelInputsMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/tuning/LocalizationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/tuning/ManualFeedbackTuner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/tuning/SplineTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/tuning/TuningOpModes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/TeamCode/src/main/res/raw/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/TeamCode/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/TeamCode/src/main/res/xml/teamwebcamcalibrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/build.common.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/build.dependencies.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/doc/legal/AudioBlocksSounds.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/doc/legal/Exhibit A - LEGO Open Source License Agreement.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/doc/legal/LEGO Open Source License.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/doc/media/PullRequest.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/libs/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/libs/ftc.debug.keystore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road-runner-quickstart-master/settings.gradle" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +119,14 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -26,6 +138,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.C:/Users/Usuario/Documents/GitHub/FTCRobotControllerIntoTheDeep-24-25.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
@@ -33,10 +146,43 @@
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "TeleOp",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ferfl/OneDrive/Documentos/GitHub/FTCRobotControllerIntoTheDeep-24-25",
+    "last_opened_file_path": "C:/Users/Usuario/Documents/GitHub/FTCRobotControllerIntoTheDeep-24-25",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="C:/Users/Usuario/Documents/GitHub/FTCRobotControllerIntoTheDeep-24-25" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.C:/Users/Usuario/Documents/GitHub/FTCRobotControllerIntoTheDeep-24-25" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
